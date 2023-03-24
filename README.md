@@ -12,7 +12,7 @@ meme templates (included in this repository)
 # Installation
 1. Clone this repository:
 
-```git clone https://github.com/yourusername/text-to-meme-converter.git```
+```git clone https://github.com/yourusername/FunnyMemes.git```
 
 
 2. Install PIL:
